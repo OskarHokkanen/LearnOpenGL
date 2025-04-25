@@ -17,3 +17,5 @@ g++ src/_.cpp src/_.c -Iinclude -std=c++17 -framework OpenGL -lglfw -o LearnOpen
 - [Description of shaders](https://learnopengl.com/Getting-started/Hello-Triangle)
 
 ![Hello triangle chapter results](/img/Hello-Triangle.png?raw=true "Hello triangle chapter results")
+
+TODO: Do the exercises from Hello Triangle Chapter: https://learnopengl.com/Getting-started/Hello-Triangle
